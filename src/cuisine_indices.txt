@@ -1,0 +1,10 @@
+categories\Arcades
+categories\British
+categories\Food Delivery Services
+categories\German
+categories\Hotels & Travel
+categories\Mediterranean
+categories\Middle Eastern
+categories\Mongolian
+categories\Soup
+categories\Wine Bars
